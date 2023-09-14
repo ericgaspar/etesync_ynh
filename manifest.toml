@@ -50,7 +50,7 @@ ram.runtime = "50M"
 
         [resources.sources.main]
         url = "https://pim.etesync.com/etesync-web.tgz"
-        sha256 = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+        sha256 = "be11fa53b3e4e4e08328c09110f6f0fa9a721000f03804a853bf8752ac50dea5"
 
     [resources.system_user]
 
